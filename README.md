@@ -1,16 +1,37 @@
-## Hi there 👋
+💫 💻 About Me
 
-<!--
-**Srinadhmugada123/Srinadhmugada123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I’m **Srinadh Mugada**, a Full Stack Developer with hands-on experience in building scalable, real-world web applications. I specialize in the **MERN stack and Python (Django)** and enjoy working across the full software development lifecycle — from UI design to backend architecture and performance testing.
 
-Here are some ideas to get you started:
+I’ve worked on projects like **StyleForge**, **DesiService**, and an **HRMS (Human Resource Management System)**, where I handled frontend development, backend APIs, database design, authentication, and testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently exploring:
+- Advanced Full Stack Development (MERN & Django)
+- Scalable Backend Architecture & REST APIs
+- Database Optimization (MongoDB & PostgreSQL)
+
+🏆 Recent highlights:
+- 🥉 **3rd Prize – DESIGN-ATHON (2025)** for backend system design
+- **Full Stack Developer Internship** – Eccentrix Innovation Pvt Ltd
+- **Backend Developer Internship** – Keel Info Solutions Pvt Ltd
+- **Python Full Stack Certification** – JSpiders, Hyderabad
+
+💡 Passionate about:
+Web development, backend system design, performance optimization, clean code, and building user-focused products.
+
+🌐 Socials:
+- 📧 Email: srinadhmugada86@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mugada-srinadh/
+- 🧑‍💻 GitHub: https://github.com/Srinadhmugada123
+
+💻 Tech Stack:
+HTML5 CSS3 JavaScript Python  
+React.js Node.js Express.js Django Django REST Framework  
+MongoDB PostgreSQL SQL  
+Bootstrap Figma  
+Git GitHub Postman VS Code  
+
+📊 GitHub Stats:
+![Srinadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srinadhmugada123&show_icons=true&theme=tokyonight)
+
+🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=Srinadhmugada123&theme=onedark)
